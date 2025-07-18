@@ -1,7 +1,6 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  // Si tu sitio está en la raíz, no necesitas base. Si está en subcarpeta, usa: base: '/subcarpeta/'
   base: "/",
   build: {
     outDir: "dist",
