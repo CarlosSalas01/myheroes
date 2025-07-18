@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Héroes - Inicio</title>
+    <link rel="shortcut icon" href="src/assets/img/vip_crown_icon_206881.png" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css"
+      rel="stylesheet"
+    />
+    <link href="src/assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="src/assets/css/inicio.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body class="moderustic bg-dark text-white">
+    <!-- Navbar dinámico -->
+    <div id="navbar-container"></div>
+
+    <!-- Main Content -->
+    <main class="container py-5">
+      <div class="row justify-content-center">
+        <div class="col-12">
+          <h1 class="text-center mb-5 fw-bold text-white">
+            ELIGE TU HÉROE FAVORITO
+          </h1>
+        </div>
+      </div>
+
+      <div class="row g-4">
+        <div class="col-lg-4 col-md-6">
+          <article class="card h-100 bg-black text-white text-center border-0">
+            <img
+              src="src/assets/img/spiderman/SpidermanWeb.png"
+              class="card-img-top img-card"
+              alt="Spider-Man lanzando telarañas"
+            />
+            <div class="card-header">
+              <h2 class="card-title h5 fw-bold text-warning mt-3">
+                EL AMIGABLE VECINO
+              </h2>
+            </div>
+            <div class="card-body">
+              <p class="card-text text-start">
+                Hay miles de variaciones de Spider-Man de distintos universos.
+                Peter Parker, Miles Morales, Miguel O'Hara, Hobart Brown, entre
+                muchos más. Diferentes razas, trajes e historias. Pero si hay
+                algo en común en todos ellos es que tienen un objetivo muy
+                específico: Ser responsables con el poder que recibieron.
+              </p>
+            </div>
+            <div class="card-footer bg-transparent">
+              <a
+                href="spiderman.html"
+                class="btn btn-link text-decoration-none"
+                aria-label="Ver página de Spider-Man"
+              >
+                <img
+                  src="src/assets/img/spiderman/icons8-spiderman-48.png"
+                  alt="Icono de Spider-Man"
+                  title="Ver Spider-Man"
+                  style="width: 35px"
+                />
+              </a>
+            </div>
+          </article>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+          <article class="card h-100 bg-black text-white text-center border-0">
+            <img
+              src="src/assets/img/batman/Batman_1.jpg"
+              class="card-img-top img-card"
+              alt="Batman en las sombras de Gotham"
+            />
+            <div class="card-header">
+              <h2 class="card-title h5 fw-bold text-warning mt-3">
+                EL CABALLERO DE LA NOCHE
+              </h2>
+            </div>
+            <div class="card-body">
+              <p class="card-text text-start">
+                Batman es misterio y oscuridad, miedo y venganza, intelecto y
+                preparación. Él es un símbolo de esperanza, un faro en la noche
+                que lucha por una Gotham mejor, demostrando que incluso en la
+                oscuridad más profunda, la justicia puede prevalecer y la
+                redención es posible.
+              </p>
+            </div>
+            <div class="card-footer bg-transparent">
+              <a
+                href="batman.html"
+                class="btn btn-link text-decoration-none"
+                aria-label="Ver página de Batman"
+              >
+                <img
+                  src="src/assets/img/batman/escudo-batman-white.png"
+                  alt="Icono de Batman"
+                  title="Ver Batman"
+                  style="width: 55px"
+                />
+              </a>
+            </div>
+          </article>
+        </div>
+
+        <div class="col-lg-4 col-md-6">
+          <article class="card h-100 bg-black text-white text-center border-0">
+            <img
+              src="src/assets/img/thor/ThorComics.jpg"
+              class="card-img-top img-card"
+              alt="Thor con su martillo Mjolnir"
+            />
+            <div class="card-header">
+              <h2 class="card-title h5 fw-bold text-warning mt-3">
+                EL DIOS DEL TRUENO
+              </h2>
+            </div>
+            <div class="card-body">
+              <p class="card-text text-start">
+                De arrogante príncipe a sabio rey. Thor es un dios en constante
+                evolución, un guerrero que ha aprendido a temperar su fuerza con
+                sabiduría. Su corazón es tan grande como su fuerza, y su
+                compasión por todos los seres vivos lo convierte en un verdadero
+                héroe.
+              </p>
+            </div>
+            <div class="card-footer bg-transparent">
+              <a
+                href="thor.html"
+                class="btn btn-link text-decoration-none"
+                aria-label="Ver página de Thor"
+              >
+                <img
+                  src="src/assets/img/thor/thorLogo.png"
+                  alt="Icono de Thor"
+                  title="Ver Thor"
+                  style="width: 45px"
+                />
+              </a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </main>
+
+    <script type="module">
+      import { initNavbar } from "./src/components/navbar.js";
+      initNavbar();
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
