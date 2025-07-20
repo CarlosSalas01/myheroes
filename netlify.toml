@@ -1,0 +1,9 @@
+[build]
+  publish = "dist"
+  command = "npm run build"
+
+# Si usas rutas internas en un SPA, puedes agregar redirección:
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
