@@ -86,7 +86,7 @@ export function createNavbar(currentPage = "") {
                   : ""
               }" 
                  href="thor.html">
-                <img src="/img/thor/thorLogo.png"
+                <img src="/img/thor/ThorLogoBlanco.png"
                      alt="Thor Logo"
                      class="navbar-thor-logo me-1 mb-1"
                      style="width: 24px; height: 24px; vertical-align: middle; ${
