@@ -239,133 +239,133 @@ h1 {
 /*Villanos Spiderman*/
 .item-1-SM {
   border-radius: 2rem 0rem 0rem 2rem;
-  background-image: url("../img/Spiderman/GreenGoblin.jpeg");
+  background-image: url("/img/Spiderman/GreenGoblin.jpeg");
 }
 .item-2-SM {
-  background-image: url("../img/Spiderman/DocOc.jpeg");
+  background-image: url("/img/Spiderman/DocOc.jpeg");
 }
 
 .item-3-SM {
-  background-image: url("../img/Spiderman/Mysterio.jpeg");
+  background-image: url("/img/Spiderman/Mysterio.jpeg");
 }
 
 .item-4-SM {
-  background-image: url("../img/Spiderman/Venom.jpeg");
+  background-image: url("/img/Spiderman/Venom.jpeg");
 }
 .item-5-SM {
   border-radius: 0rem 2rem 2rem 0rem;
-  background-image: url("../img/Spiderman/Kraven.jpeg");
+  background-image: url("/img/Spiderman/Kraven.jpeg");
 }
 
 /*Aliados Spiderman*/
 .item-1-A-SM {
   border-radius: 2rem 0rem 0rem 2rem;
-  background-image: url("../img/Spiderman/MJ_regreso.jpg");
+  background-image: url("/img/Spiderman/MJ_regreso.jpg");
 }
 .item-2-A-SM {
-  background-image: url("../img/Spiderman/Osborn.jpg");
+  background-image: url("/img/Spiderman/Osborn.jpg");
 }
 
 .item-3-A-SM {
-  background-image: url("../img/Spiderman/GS.jpg");
+  background-image: url("/img/Spiderman/GS.jpg");
 }
 
 .item-4-A-SM {
-  background-image: url("../img/Spiderman/Miles_Morales_comics.jpg");
+  background-image: url("/img/Spiderman/Miles_Morales_comics.jpg");
 }
 .item-5-A-SM {
   border-radius: 0rem 2rem 2rem 0rem;
-  background-image: url("../img/Spiderman/Black_Cat.jpg");
+  background-image: url("/img/Spiderman/Black_Cat.jpg");
 }
 
 /*Villanos Batman*/
 .item-1-BM {
   border-radius: 2rem 0rem 0rem 2rem;
-  background-image: url("../img/Batman/joker.jpeg");
+  background-image: url("/img/Batman/joker.jpeg");
 }
 
 .item-2-BM {
-  background-image: url("../img/Batman/SC.jpeg");
+  background-image: url("/img/Batman/SC.jpeg");
 }
 
 .item-3-BM {
-  background-image: url("../img/Batman/dosCaras.jpeg");
+  background-image: url("/img/Batman/dosCaras.jpeg");
 }
 
 .item-4-BM {
-  background-image: url("../img/Batman/riddler.jpeg");
+  background-image: url("/img/Batman/riddler.jpeg");
 }
 .item-5-BM {
   border-radius: 0rem 2rem 2rem 0rem;
-  background-image: url("../img/Batman/cobblepot.jpeg");
+  background-image: url("/img/Batman/cobblepot.jpeg");
 }
 
 /*Aliados Batman*/
 .item-1-A-BM {
   border-radius: 2rem 0rem 0rem 2rem;
-  background-image: url("../img/Batman/Alfredd.jpg");
+  background-image: url("/img/Batman/Alfredd.jpg");
 }
 
 .item-2-A-BM {
-  background-image: url("../img/Batman/Robin.jpg");
+  background-image: url("/img/Batman/Robin.jpg");
 }
 
 .item-3-A-BM {
-  background-image: url("../img/Batman/Oracle.jpg");
+  background-image: url("/img/Batman/Oracle.jpg");
 }
 
 .item-4-A-BM {
-  background-image: url("../img/Batman/Lucius.jpg");
+  background-image: url("/img/Batman/Lucius.jpg");
 }
 .item-5-A-BM {
   border-radius: 0rem 2rem 2rem 0rem;
-  background-image: url("../img/Batman/JamesGordon.jpg");
+  background-image: url("/img/Batman/JamesGordon.jpg");
 }
 
 /*VillanosTHOR*/
 .item-1-TH {
   border-radius: 2rem 0rem 0rem 2rem;
-  background-image: url("../img/Thor/Loki2.jpeg");
+  background-image: url("/img/Thor/Loki2.jpeg");
 }
 
 .item-2-TH {
-  background-image: url("../img/Thor/Hela.jpeg");
+  background-image: url("/img/Thor/Hela.jpeg");
 }
 
 .item-3-TH {
-  background-image: url("../img/Thor/Surtur.jpeg");
+  background-image: url("/img/Thor/Surtur.jpeg");
 }
 
 .item-4-TH {
-  background-image: url("../img/Thor/Gorr2.jpeg");
+  background-image: url("/img/Thor/Gorr2.jpeg");
 }
 
 .item-5-TH {
   border-radius: 0rem 2rem 2rem 0rem;
-  background-image: url("../img/Thor/GDH.jpeg");
+  background-image: url("/img/Thor/GDH.jpeg");
 }
 
 /*AlidadosTHOR*/
 .item-1-A-TH {
   border-radius: 2rem 0rem 0rem 2rem;
-  background-image: url("../img/Thor/BRB.jpg");
+  background-image: url("/img/Thor/BRB.jpg");
 }
 
 .item-2-A-TH {
-  background-image: url("../img/Thor/Valkirye.jpg");
+  background-image: url("/img/Thor/Valkirye.jpg");
 }
 
 .item-3-A-TH {
-  background-image: url("../img/Thor/MightyThor.jpg");
+  background-image: url("/img/Thor/MightyThor.jpg");
 }
 
 .item-4-A-TH {
-  background-image: url("../img/Thor/Heimdall_comics.jpg");
+  background-image: url("/img/Thor/Heimdall_comics.jpg");
 }
 
 .item-5-A-TH {
   border-radius: 0rem 2rem 2rem 0rem;
-  background-image: url("../img/Thor/SIF.jpg");
+  background-image: url("/img/Thor/SIF.jpg");
 }
 
 .challenge {

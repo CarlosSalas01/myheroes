@@ -1,5 +1,5 @@
 [build]
-  publish = "dist"
+  publish = "./"
   command = "npm run build"
 
 # Si usas rutas internas en un SPA, puedes agregar redirección:

@@ -49,7 +49,7 @@ export function createNavbar(currentPage = "") {
                   : ""
               }" 
                  href="spiderman.html">
-                <img src="src/assets/img/spiderman/escudo-spiderman-white.png"
+                <img src="/img/spiderman/escudo-spiderman-white.png"
                      alt="Spider-Man Logo"
                      class="navbar-spiderman-logo me-1"
                      style="width: 24px; height: 24px; vertical-align: middle; ${
@@ -67,7 +67,7 @@ export function createNavbar(currentPage = "") {
                   : ""
               }" 
                  href="batman.html">
-                <img src="src/assets/img/batman/escudo-batman-white.png"
+                <img src="/img/batman/escudo-batman-white.png"
                      alt="Batman Logo"
                      class="navbar-batman-logo me-1 mb-1"
                      style="width: 24px; height: 24px; vertical-align: middle; ${
@@ -85,7 +85,7 @@ export function createNavbar(currentPage = "") {
                   : ""
               }" 
                  href="thor.html">
-                <img src="src/assets/img/thor/thorLogo.png"
+                <img src="/img/thor/ThorLogoBlanco.png"
                      alt="Thor Logo"
                      class="navbar-thor-logo me-1 mb-1"
                      style="width: 24px; height: 24px; vertical-align: middle; ${
