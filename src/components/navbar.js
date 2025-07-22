@@ -9,7 +9,6 @@ export function createNavbar(currentPage = "") {
   return `
     <nav class="navbar navbar-expand-lg" style="background: none;">
       <div class="container">
-        <!-- Título oculto temporalmente -->
         <span style="display:none;">
           <a class="navbar-brand fw-bold" href="index.html">
             <i class="bi bi-lightning-charge-fill text-warning me-2"></i>

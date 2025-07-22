@@ -1,4 +1,4 @@
-# Héroes: Descubre el Universo de Spider-Man, Batman y Thor 🦸‍♂️🦇⚡
+# Héroes: Descubre el Universo de Spider-Man, Batman y Thor 🕷️🦇🔨
 
 ¡Bienvenido a la página definitiva para fans de los superhéroes!  
 Este proyecto web está dedicado a explorar y celebrar la historia, los villanos, aliados y cómics más icónicos de tres leyendas del cómic: **Spider-Man**, **Batman** y **Thor**.
